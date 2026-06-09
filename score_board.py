@@ -28,3 +28,4 @@ class Score(Turtle):
                 file.write(f"{self.high_score}")
         self.score = 0
         self.display_score()
+        
