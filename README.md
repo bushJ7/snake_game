@@ -4,10 +4,6 @@ A retro, arcade-style Snake Game built entirely in Python using Object-Oriented 
 
 This project was built as part of the *100 Days of Code: The Complete Python Pro Bootcamp* challenge to master game logic, coordinate systems, and event listening.
 
-![Snake Game Gameplay](gameplay-placeholder.png) *(Optional: Replace this with a screenshot or GIF of your game!)*
-
----
-
 ## 🎮 How to Play
 
 The objective is simple: eat as much food as possible to grow your snake without crashing into the walls or your own tail!
